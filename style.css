@@ -1,12 +1,24 @@
 body{
-  background-color:red;
+  background-color:darkred;
+  color:brown;
+font-family: Arial, sans-serif;
 }
 header{
-    background-color:yellow;
+    background-color:floralwhite;
+    color: white;
+    text-align: center;
+    padding: 30px;
 }
-main{
-    background-color:pink;
+
+h1 {
+    font-size: 36px;
 }
-section{
-    background-color:blue;
+
+h2{
+    color:beige;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.6;
 }
