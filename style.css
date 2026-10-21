@@ -1,14 +1,14 @@
 :root {
-    --cor-fundo:#d2b0ff;
+    --cor-fundo:#c08122;
     --cor-texto: #000000;
-  --cor-principal: #8561a3    ;
-    --cor-secundária: rgb(176, 107, 216)   ;
-    --cor-hover:    rgb(117, 164, 185)     ;
-    --cor-superfíce:  rgb(180, 128, 178)   ;
-    --cor-card:   rgb(209, 209, 243)       ;
+  --cor-principal: #8d1414    ;
+    --cor-secundária: rgb(216, 187, 107)   ;
+    --cor-hover:    rgb(241, 250, 255)     ;
+    --cor-superfíce:  rgb(202, 46, 46)   ;
+    --cor-card:   rgb(233, 163, 33)       ;
     --cor-legenda:black    ;
-    --cor-clara:  rgb(182, 199, 212)       ;
-    --cor-rodape:  rgb(180, 113, 211)      ;
+    --cor-clara:  rgb(255, 255, 243)       ;
+    --cor-rodape:  #c08122      ;
 
 }
 body{
