@@ -125,3 +125,12 @@ button:hover {
     gap: 20px;
     flex-wrap: wrap;
 }
+.btn-tema{
+    position: fixed;
+    right: 20xp;
+    bottom: 20xp;
+    width: 50xp;
+    height: 50xp;
+    border-radius: 50%;
+    font-size: 22xp;
+}
